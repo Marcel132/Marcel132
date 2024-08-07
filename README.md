@@ -1,14 +1,19 @@
 ## Hi there 👋
 
-## ABOUT ME
+## About me
   EN: Hi, my name is Marcel and I'm eighteen. 
 
   PL: Hej, mam na imię Marcel i mam 18 lat
 
-## STACK
+## Stack
 
   [![My Skills](https://skillicons.dev/icons?i=html,sass,js,ts,angular)](https://skillicons.dev)
 
+
+## Want to learn
+
+  [![My Skills](https://skillicons.dev/icons?i=vue,cpp,unreal,unity,)](https://skillicons.dev)
+  
 ## LINKS: 
   Linkedin: https://www.linkedin.com/in/marcel-podsiad%C5%82o-533572277/
   
