@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## About me
-  EN: Welcome, my name is Marcel and I'm eighteen. i go to technical school and my major is surveyor. I would like to be a software engineer. 
+  EN: Welcome, my name is Marcel and I'm nineteen. i go to technical school and my major is surveyor. I would like to be a software engineer. 
 
-  PL: Hej, mam na imię Marcel i mam 18 lat. Chodzę do technikum o profilu technik geodeta. Chciałbym zostać inżynierem oprogramowania.
+  PL: Hej, mam na imię Marcel i mam 19 lat. Chodzę do technikum o profilu technik geodeta. Chciałbym zostać inżynierem oprogramowania.
 
 ## Stack
 
