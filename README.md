@@ -7,7 +7,7 @@
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,mysql,mongodb,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,mysql,mongodb,postgres,python,cs)](https://skillicons.dev)
 
 
 ## Want to learn
