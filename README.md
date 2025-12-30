@@ -1,18 +1,14 @@
 ## Hi there 👋
 
 ## About me
-  EN: Welcome, my name is Marcel and I'm nineteen. i go to technical school and my major is surveyor. I would like to be a software engineer. 
-
-  PL: Hej, mam na imię Marcel i mam 19 lat. Chodzę do technikum o profilu technik geodeta. Chciałbym zostać inżynierem oprogramowania.
+  EN: Welcome, my name is Marcel and I'm nineteen. I would like to be a fullstack engineer. 
 
 ## Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,mysql,mongodb,postgres,python,cs)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=sass,ts,mysql,mongodb,postgres,cs,angular)](https://skillicons.dev)
 
 ## Want to learn
 
-  [![My Skills](https://skillicons.dev/icons?i=vue,cpp,unreal,unity,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,unreal,)](https://skillicons.dev)
   
 ## LINKS: 
   Linkedin: https://www.linkedin.com/in/marcel-podsiad%C5%82o-533572277/
@@ -23,10 +19,6 @@
     - Giganci programowania:  
       1. C#
       2. Hacking and cybersecurity
-    - EITCA:
-      1. Web Academy (currently learning)
-    - Udemy: 
-      1. Angular and java spring (currently learning)
 
 
 <!--
