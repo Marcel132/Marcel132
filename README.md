@@ -4,7 +4,7 @@
   EN: Welcome, my name is Marcel and I'm nineteen. I would like to be a fullstack engineer. 
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=sass,ts,mysql,mongodb,postgres,cs,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,angular,ts,sass,postgres)](https://skillicons.dev)
 
 ## Want to learn
 
