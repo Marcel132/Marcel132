@@ -11,7 +11,7 @@
   [![My Skills](https://skillicons.dev/icons?i=cpp,unreal,)](https://skillicons.dev)
   
 ## LINKS: 
-  Linkedin: https://www.linkedin.com/in/marcel-podsiad%C5%82o-533572277/
+  Linkedin: (https://www.linkedin.com/in/marcel-podsiad%C5%82o/)
   
   Email: (marcelpodsiadlo.business@gmail.com)
 
